@@ -1,1 +1,2 @@
 # VGG
+[VERY DEEP CONVOLUTION NETWORKS](https://arxiv.org/abs/1409.1556)
